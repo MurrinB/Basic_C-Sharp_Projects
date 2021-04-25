@@ -1,0 +1,7 @@
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\Daily_Report_Assignment\Daily_Report_Assignment\bin\Debug\Daily_Report_Assignment.exe.config
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\Daily_Report_Assignment\Daily_Report_Assignment\bin\Debug\Daily_Report_Assignment.exe
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\Daily_Report_Assignment\Daily_Report_Assignment\bin\Debug\Daily_Report_Assignment.pdb
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\Daily_Report_Assignment\Daily_Report_Assignment\obj\Debug\Daily_Report_Assignment.csprojAssemblyReference.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\Daily_Report_Assignment\Daily_Report_Assignment\obj\Debug\Daily_Report_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\Daily_Report_Assignment\Daily_Report_Assignment\obj\Debug\Daily_Report_Assignment.exe
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\Daily_Report_Assignment\Daily_Report_Assignment\obj\Debug\Daily_Report_Assignment.pdb
