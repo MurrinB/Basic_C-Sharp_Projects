@@ -1,0 +1,7 @@
+C:\Users\Britnee Murrin\OneDrive\Desktop\Basic_C#_Programs\HelloWorld\HelloWorld.cs\bin\Debug\HelloWorld.cs.exe.config
+C:\Users\Britnee Murrin\OneDrive\Desktop\Basic_C#_Programs\HelloWorld\HelloWorld.cs\bin\Debug\HelloWorld.cs.exe
+C:\Users\Britnee Murrin\OneDrive\Desktop\Basic_C#_Programs\HelloWorld\HelloWorld.cs\bin\Debug\HelloWorld.cs.pdb
+C:\Users\Britnee Murrin\OneDrive\Desktop\Basic_C#_Programs\HelloWorld\HelloWorld.cs\obj\Debug\HelloWorld.cs.csprojAssemblyReference.cache
+C:\Users\Britnee Murrin\OneDrive\Desktop\Basic_C#_Programs\HelloWorld\HelloWorld.cs\obj\Debug\HelloWorld.cs.csproj.CoreCompileInputs.cache
+C:\Users\Britnee Murrin\OneDrive\Desktop\Basic_C#_Programs\HelloWorld\HelloWorld.cs\obj\Debug\HelloWorld.cs.exe
+C:\Users\Britnee Murrin\OneDrive\Desktop\Basic_C#_Programs\HelloWorld\HelloWorld.cs\obj\Debug\HelloWorld.cs.pdb
