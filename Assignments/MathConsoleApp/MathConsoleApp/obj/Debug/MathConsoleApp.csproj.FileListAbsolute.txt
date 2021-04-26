@@ -1,0 +1,7 @@
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\MathConsoleApp\MathConsoleApp\bin\Debug\MathConsoleApp.exe.config
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\MathConsoleApp\MathConsoleApp\bin\Debug\MathConsoleApp.exe
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\MathConsoleApp\MathConsoleApp\bin\Debug\MathConsoleApp.pdb
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\MathConsoleApp\MathConsoleApp\obj\Debug\MathConsoleApp.csprojAssemblyReference.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\MathConsoleApp\MathConsoleApp\obj\Debug\MathConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\MathConsoleApp\MathConsoleApp\obj\Debug\MathConsoleApp.exe
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\MathConsoleApp\MathConsoleApp\obj\Debug\MathConsoleApp.pdb
