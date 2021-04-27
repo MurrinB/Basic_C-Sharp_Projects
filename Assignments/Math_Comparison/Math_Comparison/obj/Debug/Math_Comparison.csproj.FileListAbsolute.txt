@@ -1,0 +1,7 @@
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\Math_Comparison\Math_Comparison\bin\Debug\Math_Comparison.exe.config
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\Math_Comparison\Math_Comparison\bin\Debug\Math_Comparison.exe
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\Math_Comparison\Math_Comparison\bin\Debug\Math_Comparison.pdb
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\Math_Comparison\Math_Comparison\obj\Debug\Math_Comparison.csprojAssemblyReference.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\Math_Comparison\Math_Comparison\obj\Debug\Math_Comparison.csproj.CoreCompileInputs.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\Math_Comparison\Math_Comparison\obj\Debug\Math_Comparison.exe
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\Math_Comparison\Math_Comparison\obj\Debug\Math_Comparison.pdb
