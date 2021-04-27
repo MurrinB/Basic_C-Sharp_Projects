@@ -1,0 +1,7 @@
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\Boolean_Logic\Boolean_Logic\bin\Debug\Boolean_Logic.exe.config
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\Boolean_Logic\Boolean_Logic\bin\Debug\Boolean_Logic.exe
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\Boolean_Logic\Boolean_Logic\bin\Debug\Boolean_Logic.pdb
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\Boolean_Logic\Boolean_Logic\obj\Debug\Boolean_Logic.csprojAssemblyReference.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\Boolean_Logic\Boolean_Logic\obj\Debug\Boolean_Logic.csproj.CoreCompileInputs.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\Boolean_Logic\Boolean_Logic\obj\Debug\Boolean_Logic.exe
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\Boolean_Logic\Boolean_Logic\obj\Debug\Boolean_Logic.pdb
