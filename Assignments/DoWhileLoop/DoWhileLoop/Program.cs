@@ -10,6 +10,14 @@ namespace DoWhileLoop
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Let's count to 10! Press enter!"); // INTRODUCTION
+            Console.ReadLine(); // PAUSE PROGRAM
+            int i = 0; // ESTABLISH VARIABLE I AS VALUE 0
+            while (i < 11) // CREATE WHILE LOOP TO COUNT TO TEN
+            {
+                Console.WriteLine(i); // DISPLAY EACH NUMBER AS IT COUNTS UP BY 1
+                i++; // ADD 1 TO VALUE 'i' EACH LOOP
+            }
             Console.WriteLine("Guess my favorite Pixar character!"); // INTRODUCTION
             string character = Console.ReadLine(); // INPUT FOR USER TO ENTER A STRING VARIABLE
             bool guess = false; // ESTABLISH A CONDITION FOR THE LOOP TO CONTINUE
