@@ -33,7 +33,7 @@ namespace Branching
                 else
                 {
                     decimal quote = ((height * width * length) * weight) / 100;
-                    Console.WriteLine("Your shipping will cost: " + quote + "\nThank you for shipping with Package Express!");
+                    Console.WriteLine("Your shipping will cost: " + quote.ToString("C2") + "\nThank you for shipping with Package Express!");
                     
                 }
                 Console.ReadLine();
