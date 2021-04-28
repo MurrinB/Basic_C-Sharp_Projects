@@ -25,7 +25,7 @@ namespace Branching
                 decimal height = Convert.ToDecimal(Console.ReadLine()); // GET USER INPUT FOR HEIGHT
                 Console.WriteLine("What is the packages length?");
                 decimal length = Convert.ToDecimal(Console.ReadLine()); // GET USER INPUT FOR LENGTH
-                if (width > 50 || height > 50 || length > 50) // CREATE IF STATEMENT TO END PROGRAM IF PACKAGE DIMENSIONS ARE TOO LARGE
+                if ((width + height + length) > 50) // CREATE IF STATEMENT TO END PROGRAM IF PACKAGE DIMENSIONS ARE TOO LARGE
                 {
                     Console.WriteLine("Package too big to ship via Package Express. Have a good day!"); // NOTIFY USER PACKAGE IS TO LARGE AND PROGRAM END
                     Console.ReadLine(); // KEEPS CONSOLE OPEN
