@@ -1,0 +1,7 @@
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\WorkingWithLists\WorkingWithLists\bin\Debug\WorkingWithLists.exe.config
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\WorkingWithLists\WorkingWithLists\bin\Debug\WorkingWithLists.exe
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\WorkingWithLists\WorkingWithLists\bin\Debug\WorkingWithLists.pdb
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\WorkingWithLists\WorkingWithLists\obj\Debug\WorkingWithLists.csprojAssemblyReference.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\WorkingWithLists\WorkingWithLists\obj\Debug\WorkingWithLists.csproj.CoreCompileInputs.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\WorkingWithLists\WorkingWithLists\obj\Debug\WorkingWithLists.exe
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\WorkingWithLists\WorkingWithLists\obj\Debug\WorkingWithLists.pdb
