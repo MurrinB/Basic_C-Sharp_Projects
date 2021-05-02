@@ -104,6 +104,21 @@ namespace WorkingWithLists
 
                 }
             }
+            
+            List<string> colors = new List<string>() { "blue", "black", "brown", "red", "black", "green" }; // CREATE LIST WITH TWO IDENTICAL STRINGS
+            Console.WriteLine("Press enter for a list of colors. If a color is in the list twice, the word duplicate will display.");
+            Console.ReadLine();
+
+            foreach (string color in colors) // ITERATES THROUGH LIST
+            {
+                Console.WriteLine(color); // PRINTS OUT ALL COLORS IN LIST
+                if (color == "black") // COMPARES BLACK TO LIST ITEMS AND PRINTS DUPLICATE IF IT'S ALREADY PRESENT
+                {
+                    Console.WriteLine("duplicate"); 
+                }
+    
+            }
+
                              
 
 
