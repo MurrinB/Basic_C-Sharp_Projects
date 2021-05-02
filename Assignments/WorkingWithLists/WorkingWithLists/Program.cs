@@ -24,7 +24,32 @@ namespace WorkingWithLists
                 Console.WriteLine(name);
             }
 
-            Console.ReadLine();
+            bool infinite = false; // CREATE BOOL VARIABLE TO CAUSE INFINITE LOOP
+            while (!infinite) // USE WHILE LOOP TO CREATE NEVER ENDING LOOP
+            {
+                Console.WriteLine("I will repeat forever!");
+                infinite = true; // CHANGE BOOL VARIABLE TO END THE INFINITE LOOP
+            }
+
+            int[] numbers = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 }; // CREATE AN ARRAY OF INTEGARS
+            for (int i = 0; i < numbers.Length; i++) // LOOP THROUGH ARRAY 
+            {
+                if (numbers[i] < 6) // MAKE COMPARISON THAT PROGRAM WILL USE WHILE ITERATING THROUGH ARRAY
+                {
+                    Console.WriteLine(numbers[i]); // PRINT ALL NUMBERS LESS THAN 6
+                }
+            }
+            for (int i = 0; i < numbers.Length; i++) // LOOP THROUGH ARRAY
+            {
+                if (numbers[i] <= 5) // MAKE COMPARISON THAT PROGRAM WILL USE WHILE ITERATING THROUGH ARRAY
+                {
+                    Console.WriteLine(numbers[i]); // PRINT OUT 1 TO 5 
+                }
+            }
+
+
+
+                Console.ReadLine(); // LEAVES CONSOLE OPEN
 
 
             
