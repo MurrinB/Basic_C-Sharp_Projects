@@ -1,0 +1,7 @@
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\IntegarLoop\IntegarLoop\bin\Debug\IntegarLoop.exe.config
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\IntegarLoop\IntegarLoop\bin\Debug\IntegarLoop.exe
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\IntegarLoop\IntegarLoop\bin\Debug\IntegarLoop.pdb
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\IntegarLoop\IntegarLoop\obj\Debug\IntegarLoop.csprojAssemblyReference.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\IntegarLoop\IntegarLoop\obj\Debug\IntegarLoop.csproj.CoreCompileInputs.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\IntegarLoop\IntegarLoop\obj\Debug\IntegarLoop.exe
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\IntegarLoop\IntegarLoop\obj\Debug\IntegarLoop.pdb
