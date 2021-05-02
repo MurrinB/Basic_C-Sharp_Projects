@@ -16,7 +16,7 @@ namespace WorkingWithLists
 
             for (int name = 0; name < names.Length; name++) // FOR LOOP TO ITERATE THROUGH ARRAY AND ADD USER INPUT TO EACH STRING INDEX
             {
-                names[name] = names[name] + lastname; 
+                names[name] = names[name] + lastname;
             }
 
             foreach (string name in names) // USE FOREACH LOOP TO DISPLAY EACH STRING WITH USER ADDITION IN CONSOLE
@@ -47,9 +47,69 @@ namespace WorkingWithLists
                 }
             }
 
+            List<string> groceryList = new List<string>() { "eggs", "milk", "bread", "butter", "coffee" }; // CREATE LIST OF STRING
+            bool itemSearch = false; // ESTABLISH BOOLEAN VARIABLE AS FALSE FOR LOOP TO REPEAT
+
+            Console.WriteLine("Enter an item to search for in the grocery list: "); // REQUEST USER INPUT
+            string grocerySearch = Console.ReadLine(); // USER INPUT TO SEARCH LIST
+
+            while (!itemSearch) // STARTS A LOOP TO LOOP THROUGH WHOLE PROCESS
+            {
 
 
-                Console.ReadLine(); // LEAVES CONSOLE OPEN
+                for (int i = 0; i < groceryList.Count; i++) // LOOP TO ITERATE THROUGH LIST
+                {
+                    if (grocerySearch == groceryList[i]) // COMPARISON OF LIST ITEMS
+                    {
+                        Console.WriteLine(groceryList[i] + " is at index " + i); // DISPLAYS MATCHING LIST ITEM AND IT'S INDEX
+                        itemSearch = true; // ENDS LOOP 
+                    }
+
+
+                }
+                if (!itemSearch) // LOOP FOR INPUT THAT DOES NOT MATCH THE LIST
+                {
+                    Console.WriteLine("Sorry, but " + grocerySearch + " is not in the list."); // INFORMS USER
+                    Console.WriteLine("Enter an item to search for in the grocery list: "); // REQUEST USER ANOTHER INPUT
+                    grocerySearch = Console.ReadLine(); // GETS NEW INPUT TO START AT WHILE LOOP AGAIN
+                }
+            }
+
+
+
+
+
+            List<string> animals = new List<string>() { "cow", "horse", "cat", "dog", "cat", "monkey" };
+            Console.WriteLine("What animal would you like to see on the farm?"); // REQUEST USER INPUT
+            string requestedAnimal = Console.ReadLine(); //SAVE USER INPUT
+            bool foundAnimal = false; // ESTABLISH VARIABLE AS FALSE TO HELP WITH A WHILE LOOP
+
+            while (!foundAnimal) // START LOOP THROUGH WHOLE PROCESS OF THIS STRING DATA 
+            { 
+                for (int animal = 0; animal < animals.Count; animal++) // ITERATE THROUGH THE LIST
+                {
+                    if (requestedAnimal == animals[animal]) // COMPARE EACH ITEM FOR A MATCH IN THE LIST
+                    {
+                        Console.WriteLine(requestedAnimal + " is on the farm at index " + animal); // DISPLAY ITEM OR MULTIPLE ITEMS AND THEIR INDICES
+                        foundAnimal = true; // END LOOP
+                    }
+                    
+
+                }
+                if (!foundAnimal) // IF USER INPUT DOESN'T MATCH AN ITEM IN THE STRING LIST
+                {
+                    Console.WriteLine(requestedAnimal + " is not on this farm!"); // DISPLAY ERROR
+                    Console.WriteLine("What animal would you like to see on the farm?"); // REQUEST USER TO TRY AGAIN
+                    requestedAnimal = Console.ReadLine(); // SAVE NEW INPUT
+
+                }
+            }
+                             
+
+
+
+
+            Console.ReadLine(); // LEAVES CONSOLE OPEN
 
 
             
