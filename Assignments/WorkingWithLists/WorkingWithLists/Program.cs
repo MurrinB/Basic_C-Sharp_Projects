@@ -106,22 +106,21 @@ namespace WorkingWithLists
             }
             
             List<string> colors = new List<string>() { "blue", "black", "brown", "red", "black", "green" }; // CREATE LIST WITH TWO IDENTICAL STRINGS
-            Console.WriteLine("Press enter for a list of colors. If a color is in the list twice, the word duplicate will display.");
+            List<string> colorsCopy = new List<string>(); // EMPTY LIST FOR ADDING LIST 1 COLORS AND COMPARING BACK TO LIST ONE 
+            Console.WriteLine("Press enter to find out which colors are duplicated in the list of colors."); // GIVE A PAUSE TO THE PROGRAM
             Console.ReadLine();
-
-            foreach (string color in colors) // ITERATES THROUGH LIST
+            foreach (var color in colors) // ITERATES THROUGH ORIGINAL LIST
             {
-                Console.WriteLine(color); // PRINTS OUT ALL COLORS IN LIST
-                if (color == "black") // COMPARES BLACK TO LIST ITEMS AND PRINTS DUPLICATE IF IT'S ALREADY PRESENT
+                foreach (var color2 in colorsCopy) // ITERATES THROUGH LIST TWO
                 {
-                    Console.WriteLine("duplicate"); 
+                    if (color == color2) // COMPARES THE ITEMS IN LIST TWO TO LIST ONE
+                    {
+                        Console.WriteLine(color + " is a duplicate."); // IF COLOR HAS ALREADY BEEN ADDED USER WILL BE NOTIFIED HERE
+                    }
                 }
-    
+
+                colorsCopy.Add(color); // COLORS FROM LIST ONE ADDED TO LIST TWO 
             }
-
-                             
-
-
 
 
             Console.ReadLine(); // LEAVES CONSOLE OPEN
