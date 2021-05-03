@@ -1,0 +1,7 @@
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\BLackjackGame\BLackjackGame\bin\Debug\BLackjackGame.exe.config
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\BLackjackGame\BLackjackGame\bin\Debug\BLackjackGame.exe
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\BLackjackGame\BLackjackGame\bin\Debug\BLackjackGame.pdb
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\BLackjackGame\BLackjackGame\obj\Debug\BLackjackGame.csprojAssemblyReference.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\BLackjackGame\BLackjackGame\obj\Debug\BLackjackGame.csproj.CoreCompileInputs.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\BLackjackGame\BLackjackGame\obj\Debug\BLackjackGame.exe
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\BLackjackGame\BLackjackGame\obj\Debug\BLackjackGame.pdb
