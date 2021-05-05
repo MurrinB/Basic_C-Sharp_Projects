@@ -1,0 +1,7 @@
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\IntegerMethod\IntegerMethod\bin\Debug\IntegerMethod.exe.config
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\IntegerMethod\IntegerMethod\bin\Debug\IntegerMethod.exe
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\IntegerMethod\IntegerMethod\bin\Debug\IntegerMethod.pdb
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\IntegerMethod\IntegerMethod\obj\Debug\IntegerMethod.csprojAssemblyReference.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\IntegerMethod\IntegerMethod\obj\Debug\IntegerMethod.csproj.CoreCompileInputs.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\IntegerMethod\IntegerMethod\obj\Debug\IntegerMethod.exe
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\IntegerMethod\IntegerMethod\obj\Debug\IntegerMethod.pdb
