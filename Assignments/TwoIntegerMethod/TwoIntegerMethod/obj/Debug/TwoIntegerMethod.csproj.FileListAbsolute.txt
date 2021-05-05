@@ -1,0 +1,7 @@
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\TwoIntegerMethod\TwoIntegerMethod\bin\Debug\TwoIntegerMethod.exe.config
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\TwoIntegerMethod\TwoIntegerMethod\bin\Debug\TwoIntegerMethod.exe
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\TwoIntegerMethod\TwoIntegerMethod\bin\Debug\TwoIntegerMethod.pdb
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\TwoIntegerMethod\TwoIntegerMethod\obj\Debug\TwoIntegerMethod.csprojAssemblyReference.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\TwoIntegerMethod\TwoIntegerMethod\obj\Debug\TwoIntegerMethod.csproj.CoreCompileInputs.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\TwoIntegerMethod\TwoIntegerMethod\obj\Debug\TwoIntegerMethod.exe
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\TwoIntegerMethod\TwoIntegerMethod\obj\Debug\TwoIntegerMethod.pdb
