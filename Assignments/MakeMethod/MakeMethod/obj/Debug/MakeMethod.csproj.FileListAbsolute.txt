@@ -1,0 +1,7 @@
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\MakeMethod\MakeMethod\bin\Debug\MakeMethod.exe.config
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\MakeMethod\MakeMethod\bin\Debug\MakeMethod.exe
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\MakeMethod\MakeMethod\bin\Debug\MakeMethod.pdb
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\MakeMethod\MakeMethod\obj\Debug\MakeMethod.csprojAssemblyReference.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\MakeMethod\MakeMethod\obj\Debug\MakeMethod.csproj.CoreCompileInputs.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\MakeMethod\MakeMethod\obj\Debug\MakeMethod.exe
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\MakeMethod\MakeMethod\obj\Debug\MakeMethod.pdb
