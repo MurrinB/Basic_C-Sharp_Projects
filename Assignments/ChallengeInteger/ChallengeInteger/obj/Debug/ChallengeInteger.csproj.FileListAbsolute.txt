@@ -1,0 +1,7 @@
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\ChallengeInteger\ChallengeInteger\bin\Debug\ChallengeInteger.exe.config
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\ChallengeInteger\ChallengeInteger\bin\Debug\ChallengeInteger.exe
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\ChallengeInteger\ChallengeInteger\bin\Debug\ChallengeInteger.pdb
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\ChallengeInteger\ChallengeInteger\obj\Debug\ChallengeInteger.csprojAssemblyReference.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\ChallengeInteger\ChallengeInteger\obj\Debug\ChallengeInteger.csproj.CoreCompileInputs.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\ChallengeInteger\ChallengeInteger\obj\Debug\ChallengeInteger.exe
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\ChallengeInteger\ChallengeInteger\obj\Debug\ChallengeInteger.pdb
