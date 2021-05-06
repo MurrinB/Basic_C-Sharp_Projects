@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1DDDF708-D514-48F3-A33F-D110A3091E7F}</ProjectGuid>
+    <ProjectGuid>{C88B5205-058E-4E04-B6E3-C7212B3B31EC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>BLackjackGame</RootNamespace>
-    <AssemblyName>BLackjackGame</AssemblyName>
+    <RootNamespace>EmployeeNames</RootNamespace>
+    <AssemblyName>EmployeeNames</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,12 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Card.cs" />
-    <Compile Include="Deck.cs" />
-    <Compile Include="Game.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TwentyOneGame.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

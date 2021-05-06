@@ -1,0 +1,7 @@
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\EmployeeNames\EmployeeNames\bin\Debug\EmployeeNames.exe.config
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\EmployeeNames\EmployeeNames\bin\Debug\EmployeeNames.exe
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\EmployeeNames\EmployeeNames\bin\Debug\EmployeeNames.pdb
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\EmployeeNames\EmployeeNames\obj\Debug\EmployeeNames.csprojAssemblyReference.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\EmployeeNames\EmployeeNames\obj\Debug\EmployeeNames.csproj.CoreCompileInputs.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\EmployeeNames\EmployeeNames\obj\Debug\EmployeeNames.exe
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\EmployeeNames\EmployeeNames\obj\Debug\EmployeeNames.pdb
