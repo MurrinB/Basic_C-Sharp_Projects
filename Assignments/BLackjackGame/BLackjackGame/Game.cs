@@ -8,7 +8,7 @@ namespace BLackjackGame
 {
     public abstract class Game // ABSTRACT LOCKS THE CLASS SO YOU CAN NEVER CREATE AN INSTANCE OF THE CLASS
     {
-        public List<string> Players { get; set; }
+        public List<Player> Players { get; set; }
         public string Name { get; set; }
         public string Dealer { get; set; }
 
@@ -16,9 +16,9 @@ namespace BLackjackGame
         
         public virtual void ListPlayers() // METHOD GETS INHERITED BY INHERITING CLASS BUT CAN BE OVERRIDEN
         {
-            foreach (string player in Players)
+            foreach (Player player in Players)
             {
-                Console.WriteLine(player);
+                Console.WriteLine(player.Name);
             }
         }
 
