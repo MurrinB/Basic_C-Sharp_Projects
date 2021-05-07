@@ -16,9 +16,24 @@ namespace EmployeeNames
             base.SayName();
         }
 
-        public void Quit(Person person) // IMPLEMENT IQUITTABLE INTERFACE
+        public void Quit() // IMPLEMENT IQUITTABLE INTERFACE
         {
             Console.WriteLine("I quit!"); 
+        }
+
+        public static bool operator ==(Employee idOne, Employee idTwo) // OVERLOAD == OPERATOR 
+        {
+            bool compare = idOne == idTwo; // COMPARE TWO EMPLOYEE IDS TO CHECK IF THEY ARE EQUAL
+            return true;
+
+   
+        }
+
+        public static bool operator !=(Employee idOne, Employee idTwo) // OVERLOAD != AS A PAIR WITH == 
+        {
+            bool compare = idOne != idTwo; // COMPARE THE OPPOSITE IF THE IDS DO NOT MATCH
+            return false;
+
         }
     }
 }
