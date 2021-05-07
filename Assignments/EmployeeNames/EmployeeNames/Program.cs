@@ -17,6 +17,15 @@ namespace EmployeeNames
 
             Console.ReadLine(); // KEEPS CONSOLE OPEN
 
+            IQuittable employee2 = new Employee(); // CREATE OBJECT TYPE IQUITTABLE WITH POLYMORPHISM
+            employee2.Quit(); // CALL IQUITTABLE METHOD QUIT 
+
+            
+
+            
+
+            
+
         }
     }
 }
