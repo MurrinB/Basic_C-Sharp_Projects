@@ -18,21 +18,22 @@ namespace EmployeeNames
 
         public void Quit() // IMPLEMENT IQUITTABLE INTERFACE
         {
-            Console.WriteLine("I quit!"); 
+            Console.WriteLine("I quit!");
+            Console.ReadLine();
         }
 
         public static bool operator ==(Employee idOne, Employee idTwo) // OVERLOAD == OPERATOR 
         {
-            bool compare = idOne == idTwo; // COMPARE TWO EMPLOYEE IDS TO CHECK IF THEY ARE EQUAL
-            return true;
+            bool compare = idOne.id == idTwo.id; // COMPARE TWO EMPLOYEE IDS TO CHECK IF THEY ARE EQUAL
+            return compare;
 
    
         }
 
         public static bool operator !=(Employee idOne, Employee idTwo) // OVERLOAD != AS A PAIR WITH == 
         {
-            bool compare = idOne != idTwo; // COMPARE THE OPPOSITE IF THE IDS DO NOT MATCH
-            return false;
+            bool compare = idOne.id != idTwo.id; // COMPARE THE OPPOSITE IF THE IDS DO NOT MATCH
+            return compare;
 
         }
     }
