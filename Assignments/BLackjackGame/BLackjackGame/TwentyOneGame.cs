@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BLackjackGame
 {
-    public class TwentyOneGame : Game
+    public class TwentyOneGame : Game, IWalkAway
     {
         public override void Play()
         {
@@ -17,6 +17,11 @@ namespace BLackjackGame
         {
             Console.WriteLine("21 Players:");
             base.ListPlayers();
+        }
+
+        public void WalkAway(Player player) // IMPLEMENTATION OF INTERFACE IWALKAWAY METHOD
+        {
+            throw new NotImplementedException();
         }
 
     }
