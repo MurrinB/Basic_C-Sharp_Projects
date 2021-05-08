@@ -1,0 +1,7 @@
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.csprojAssemblyReference.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.csproj.CoreCompileInputs.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\DaysOfTheWeek.exe.config
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\DaysOfTheWeek.exe
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\DaysOfTheWeek.pdb
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.exe
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.pdb
