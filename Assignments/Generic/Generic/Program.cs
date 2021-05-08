@@ -26,6 +26,10 @@ namespace Generic
                 Console.WriteLine(personTwo.Things[i]);
             }
 
+            Number number = new Number(); // INSTANTIATE NUMBER STRUCT
+            number.Amount = 2.34m; // ASSIGN VALUE TO AMOUNT PROPERTY 
+            Console.WriteLine("The amount assigned is " + number.Amount); // DISPLAY ASSIGNED VALUE IN CONSOLE
+
             Console.ReadLine();
 
         }
