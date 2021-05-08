@@ -1,0 +1,7 @@
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\LambdaAssigment\LambdaAssigment\bin\Debug\LambdaAssigment.exe.config
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\LambdaAssigment\LambdaAssigment\bin\Debug\LambdaAssigment.exe
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\LambdaAssigment\LambdaAssigment\bin\Debug\LambdaAssigment.pdb
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\LambdaAssigment\LambdaAssigment\obj\Debug\LambdaAssigment.csprojAssemblyReference.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\LambdaAssigment\LambdaAssigment\obj\Debug\LambdaAssigment.csproj.CoreCompileInputs.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\LambdaAssigment\LambdaAssigment\obj\Debug\LambdaAssigment.exe
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\LambdaAssigment\LambdaAssigment\obj\Debug\LambdaAssigment.pdb
