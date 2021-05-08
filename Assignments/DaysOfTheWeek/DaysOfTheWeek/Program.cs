@@ -20,25 +20,14 @@ namespace DaysOfTheWeek
         }
         static void Main(string[] args)
         {
-            List<string> Days = new List<string>(); // CREATE EMPTY STRING TO ASSIGN ENUM VALUE TO 
             Console.WriteLine("What day of the week is it?"); // PROMPT USER INPUT
-           
+            string answer = Console.ReadLine(); // SAVE USER INPUT AS VARIABLE ANSWER
+
 
             try // TRY TO CATCH ERRORS IF USER DOESN'T TYPE A PROPER DAY OF THE WEEK
             {
-                string answer = Console.ReadLine(); // SAVE USER INPUT AS VARIABLE ANSWER
-                foreach (string day in Enum.GetNames(typeof(Day))) // PARSE THROUGH ENUM DAY
-                {
-                    if (day == answer) // COMPARE USER ANSWER TO ENUM
-                    {
-                        Days.Add(day); // ADD ENUM VALUE TO EMPTY LIST IF IT MATCHES
-                        for (int i = 0; i < Days.Count; i++) // PARSE THROUGH DAYS LIST
-                        {
-                            Console.WriteLine(Days[i]); // DISPLAY DAYS LIST IN CONSOLE 
-                        }
-                    }
-                }
-            
+                Day answerDay = (Day)Enum.Parse(typeof(Day), answer); // CONVERT USER INPUT TO ENUM
+                Console.WriteLine("Today is " + answerDay); // DISPLAY ENUM VALUE IN CONSOLE
             }
             catch (System.Exception) // GIVE ERROR MESSAGE IF USER TYPES ANYTHING ELSE
             {
