@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace Generic
 {
@@ -30,7 +31,17 @@ namespace Generic
             number.Amount = 2.34m; // ASSIGN VALUE TO AMOUNT PROPERTY 
             Console.WriteLine("The amount assigned is " + number.Amount); // DISPLAY ASSIGNED VALUE IN CONSOLE
 
-            Console.ReadLine();
+            Console.WriteLine("Pick a number."); // PROPMT USER TO PICK RANDOM NUMBER
+            int numberPick = Convert.ToInt32(Console.ReadLine()); // SAVE USER INPUT
+            using (StreamWriter file = new StreamWriter(@"C:\Users\Britnee Murrin\OneDrive\Desktop\FolderA\NumLog.txt", true)) // GET FILE LOCATION AND INTIATE APPEND COMMAND
+            {
+                file.WriteLine(numberPick); // APPEND FILE WITH USER INPUT
+            }
+            string text = File.ReadAllText(@"C:\Users\Britnee Murrin\OneDrive\Desktop\FolderA\NumLog.txt"); // GET THE FILE LOCATION AND READ THE TEXT WITHIN THE FILE
+            Console.WriteLine(text); // PRINT OUT THAT TEXT IN THE CONSOLE
+
+
+                Console.ReadLine(); // KEEP CONSOLE OPEN
 
         }
     }
