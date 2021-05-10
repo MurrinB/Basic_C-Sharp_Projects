@@ -13,8 +13,14 @@ namespace Casino1
             Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
             string playerName = Console.ReadLine();
 
-            Console.WriteLine("And how much money did you bring today?");
-            int bank = Convert.ToInt32(Console.ReadLine());
+            bool validAnswer = false;
+            int bank = 0;
+            while (!validAnswer)
+            {
+                Console.WriteLine("And how much money did you bring today?");
+                validAnswer = int.TryParse(Console.ReadLine(), out bank);
+                if (!validAnswer) Console.WriteLine("Please enter digits only. No decimals.");
+            }
 
             Console.WriteLine("Hello, {0}. Would you like to join a game of 21 right now?", playerName);
             string answer = Console.ReadLine().ToLower();
@@ -32,7 +38,22 @@ namespace Casino1
                 player.isActivleyPlaying = true;
                 while (player.isActivleyPlaying && player.Balance > 0)
                 {
-                    game.Play();
+                    try
+                    { 
+                        game.Play();
+                    }
+                    catch (FraudException)
+                    {
+                        Console.WriteLine("Security! Kick this person out.");
+                        Console.ReadLine();
+                        return;
+                    }
+                    catch (Exception)
+                    {
+                        Console.WriteLine("An error occurred. Please contact your System Administrator. ");
+                        Console.ReadLine();
+                        return;
+                    }
                 }
                 game -= player;
                 Console.WriteLine("Thank you for playing!");
