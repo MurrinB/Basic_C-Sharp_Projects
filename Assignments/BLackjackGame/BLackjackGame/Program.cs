@@ -1,5 +1,6 @@
 ﻿using System;
 using Casino1;
+using System.IO;
 
 
 namespace Casino1 
@@ -21,6 +22,11 @@ namespace Casino1
             if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
             {
                 Player player = new Player(playerName, bank); // CONSTRUCTOR
+                player.Id = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"C:\Users\Britnee Murrin\OneDrive\Desktop\FolderA\log.txt", true))
+                {
+                    file.WriteLine(player.Id);
+                }
                 Game game = new TwentyOneGame();
                 game += player;
                 player.isActivleyPlaying = true;
