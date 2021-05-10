@@ -1,0 +1,9 @@
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\BLackjackGame\Casino\bin\Debug\netcoreapp3.1\Casino.deps.json
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\BLackjackGame\Casino\bin\Debug\netcoreapp3.1\Casino.dll
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\BLackjackGame\Casino\bin\Debug\netcoreapp3.1\Casino.pdb
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\BLackjackGame\Casino\obj\Debug\netcoreapp3.1\Casino.csprojAssemblyReference.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\BLackjackGame\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfoInputs.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\BLackjackGame\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfo.cs
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\BLackjackGame\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.CoreCompileInputs.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\BLackjackGame\Casino\obj\Debug\netcoreapp3.1\Casino.dll
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\BLackjackGame\Casino\obj\Debug\netcoreapp3.1\Casino.pdb

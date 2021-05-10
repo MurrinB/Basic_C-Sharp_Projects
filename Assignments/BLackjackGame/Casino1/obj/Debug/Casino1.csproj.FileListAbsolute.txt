@@ -1,0 +1,5 @@
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\BLackjackGame\Casino1\obj\Debug\Casino1.csproj.CoreCompileInputs.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\BLackjackGame\Casino1\bin\Debug\Casino1.dll
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\BLackjackGame\Casino1\bin\Debug\Casino1.pdb
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\BLackjackGame\Casino1\obj\Debug\Casino1.dll
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\BLackjackGame\Casino1\obj\Debug\Casino1.pdb

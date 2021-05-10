@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BLackjackGame
+namespace Casino1
 {
     public abstract class Game // ABSTRACT LOCKS THE CLASS SO YOU CAN NEVER CREATE AN INSTANCE OF THE CLASS
     {
