@@ -1,0 +1,7 @@
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\ConstructorAssignment\ConstructorAssignment\bin\Debug\ConstructorAssignment.exe.config
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\ConstructorAssignment\ConstructorAssignment\bin\Debug\ConstructorAssignment.exe
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\ConstructorAssignment\ConstructorAssignment\bin\Debug\ConstructorAssignment.pdb
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\ConstructorAssignment\ConstructorAssignment\obj\Debug\ConstructorAssignment.csprojAssemblyReference.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\ConstructorAssignment\ConstructorAssignment\obj\Debug\ConstructorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\ConstructorAssignment\ConstructorAssignment\obj\Debug\ConstructorAssignment.exe
+C:\Users\Britnee Murrin\GitHub\Basic_C-Sharp_Projects\Assignments\ConstructorAssignment\ConstructorAssignment\obj\Debug\ConstructorAssignment.pdb
