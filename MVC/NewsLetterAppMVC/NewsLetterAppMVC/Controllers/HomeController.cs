@@ -26,5 +26,18 @@ namespace NewsLetterAppMVC.Controllers
 
             return View();
         }
+
+        [HttpPost]
+        public ActionResult SignUp(string firstName, string lastName, string emailAddress)
+        {
+            if (string.IsNullOrEmpty(firstName) || string.IsNullOrEmpty(lastName) || string.IsNullOrEmpty(emailAddress))
+            {
+                return View("~/Views/Shared/Error.cshtml");
+            }
+            else
+            {
+                return View("Success");
+            }
+        }
     }
 }
